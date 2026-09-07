@@ -429,6 +429,12 @@ Same family idea: **better workflow around a host agent**, not a replacement age
 
 Translation index and maintenance rules: [docs/readme/README.md](docs/readme/README.md).
 
+---
+
+## Support
+
+If this project saved you some time, you can [buy me a coffee](https://buymeacoffee.com/iml1s).
+
 ## License
 
 [MIT](./LICENSE) — see the `LICENSE` file in the repository root.
