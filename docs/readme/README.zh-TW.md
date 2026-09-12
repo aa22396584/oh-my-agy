@@ -115,7 +115,7 @@ Registry 發佈**未設定**：不要從 npmjs.org 安裝無關的未 scoped `oh
 便捷一行（最新已驗證 release 為 `v0.6.0`）：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ImL1s/oh-my-agy/main/scripts/install.sh \
+curl -fsSL https://codeberg.org/ImL1s/oh-my-agy/raw/branch/main/scripts/install.sh \
   | bash -s -- --github --tag v0.6.0
 ```
 
@@ -124,7 +124,7 @@ curl -fsSL https://raw.githubusercontent.com/ImL1s/oh-my-agy/main/scripts/instal
 ```bash
 # 先下載 installer，再解析 pinned release。
 curl -fsSLo /tmp/oma-install.sh \
-  https://raw.githubusercontent.com/ImL1s/oh-my-agy/main/scripts/install.sh
+  https://codeberg.org/ImL1s/oh-my-agy/raw/branch/main/scripts/install.sh
 bash /tmp/oma-install.sh --github --tag v0.6.0
 
 # 完全離線：驗證並安裝精確檔案，無網路/npm/build 步驟。

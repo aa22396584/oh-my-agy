@@ -24,7 +24,7 @@ GitHub Release 发布后，使用独立的已验证 bootstrap：
 
 ```bash
 curl -fsSLo /tmp/oma-install.sh \
-  https://raw.githubusercontent.com/ImL1s/oh-my-agy/main/scripts/install.sh
+  https://codeberg.org/ImL1s/oh-my-agy/raw/branch/main/scripts/install.sh
 bash /tmp/oma-install.sh --github --tag vX.Y.Z
 ```
 
