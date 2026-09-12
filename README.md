@@ -118,7 +118,7 @@ package tarball and `SHA256SUMS`.
 Convenient one-liner (latest verified release is `v0.6.0`):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ImL1s/oh-my-agy/main/scripts/install.sh \
+curl -fsSL https://codeberg.org/ImL1s/oh-my-agy/raw/branch/main/scripts/install.sh \
   | bash -s -- --github --tag v0.6.0
 ```
 
@@ -127,7 +127,7 @@ Manual / reproducible options:
 ```bash
 # Download the installer first, then resolve the pinned release.
 curl -fsSLo /tmp/oma-install.sh \
-  https://raw.githubusercontent.com/ImL1s/oh-my-agy/main/scripts/install.sh
+  https://codeberg.org/ImL1s/oh-my-agy/raw/branch/main/scripts/install.sh
 bash /tmp/oma-install.sh --github --tag v0.6.0
 
 # Fully offline: verify + install the exact files, no network/npm/build step.
