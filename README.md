@@ -1,5 +1,10 @@
 # oh-my-agy (OMA / OMY)
 
+> **Development home:** https://github.com/ImL1s/oh-my-agy  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/oh-my-agy) · [GitLab](https://gitlab.com/aa22396584/oh-my-agy)
+
+
 <p align="center">
   <img src="assets/oma-character.png" alt="oh-my-agy character" width="300">
   <br>
