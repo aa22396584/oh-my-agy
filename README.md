@@ -8,6 +8,8 @@ https://github.com/aa22396584/oh-my-agy
 [Codeberg](https://codeberg.org/ImL1s/oh-my-agy)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/oh-my-agy`](https://github.com/ImL1s/oh-my-agy) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 <p align="center">
   <img src="assets/oma-character.png" alt="oh-my-agy character" width="300">
   <br>
