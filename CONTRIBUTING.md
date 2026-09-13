@@ -6,7 +6,7 @@ local `oma` CLI) for the Antigravity CLI (`agy`).
 ## Dev setup
 
 ```bash
-git clone https://github.com/ImL1s/oh-my-agy.git
+git clone https://github.com/aa22396584/oh-my-agy.git
 cd oh-my-agy
 npm ci
 npm run build

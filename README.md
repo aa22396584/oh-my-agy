@@ -1,8 +1,11 @@
 # oh-my-agy (OMA / OMY)
 
-> **Development home:** https://github.com/ImL1s/oh-my-agy  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/oh-my-agy) · [GitLab](https://gitlab.com/aa22396584/oh-my-agy)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/oh-my-agy
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/oh-my-agy) ·
+[Codeberg](https://codeberg.org/ImL1s/oh-my-agy)
 
 
 <p align="center">
@@ -76,7 +79,7 @@ Also: `ralph`, `ultrawork`, `team`, … (bare on agy; `/oh-my-agy:…` on Claude
 ### One-shot install (clone)
 
 ```bash
-git clone https://github.com/ImL1s/oh-my-agy.git
+git clone https://github.com/aa22396584/oh-my-agy.git
 cd oh-my-agy
 ./scripts/install.sh
 # build + PATH + oma setup (agy plugin + Claude/Grok slash surface)
